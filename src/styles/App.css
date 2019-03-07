@@ -26,3 +26,15 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.eachCharacteristic {  
+  border: 2px solid cyan;
+  padding: 30px;
+  margin: 10px;
+}
+
+.eachCharacterCard {
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}

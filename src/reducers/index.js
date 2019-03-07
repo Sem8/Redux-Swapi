@@ -4,4 +4,4 @@ import { charsReducer } from './starWarsReducer';
 // export default combineReducers({
 //   charsReducer
 // });
-export default charsReducer
+export default charsReducer;
